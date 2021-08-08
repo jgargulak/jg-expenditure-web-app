@@ -2,6 +2,7 @@ import * as React from 'react';
 import {ExpenseDate} from './ExpenseDate';
 import {useState} from 'react';
 import {Card} from '../UI/Card';
+import './ExpenseItem.scss';
 
 export const ExpenseItem = (props: any) => {
 

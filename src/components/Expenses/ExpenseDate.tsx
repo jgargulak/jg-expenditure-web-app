@@ -1,4 +1,5 @@
 import * as React from 'react';
+import './ExpenseDate.scss';
 
 export const ExpenseDate = (props: any) => {
 
